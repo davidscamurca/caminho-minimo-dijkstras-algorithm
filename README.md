@@ -1,5 +1,9 @@
 # caminho-minimo-dijkstras-algorithm
 
+Algoritmo originalmente desenvolvido pelo processor [Marcos Castro](https://github.com/marcoscastro) 
+
+[Programação em C++ - Algoritmo de Dijkstra](https://gist.github.com/marcoscastro/d4e0df5b134c2cd63cf2)
+
 # MIT License
 
 Copyright (c) 2017 David Camurça
