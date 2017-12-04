@@ -12,17 +12,19 @@
 
 Os testes realizados simulam uma rede de computadores de pequeno, médio e grande porte das empresas X, Y e Z. Ao todo foram realizados 3 testes, o primeiro com um grafo de 9 vértices, numerados de 0 a 8, simulando uma rede com 9 computadores conectados. O segundo foi o 5 vezes o tamanho do anterior ou seja, de 0 a 44, simulando 45 computadores conectados, e por último, um teste foi estudado simulando uma empresa de grande porte (Ex.: Microsoft), onde a rede contém mais de 500 computadores conectados em várias redes internas, sendo mais específico foram 512 computadores representados por vértices. Veja abaixo os grafos que foram usados nos testes.
 
-Figura 2: Grafo do teste 1
-Fonte: Auto
+![alt text](https://github.com/davidscamurca/caminho-minimo-dijkstras-algorithm/blob/master/T1.png "grafo1")
+
+
 
 O objetivo do teste 1 é enviar um pacote de dado de um PCX para um PCY, os vértices que escolhidos foram PCX (vértice 0) e PCY (vértice 6). Ná próxima seção serão descritos com mais detalhes cada teste, o tópico 5 contém apenas os testes sem os resultados.
-Figura 3: Grato do teste 2
-Fonte: Autor
+
+![alt text](https://github.com/davidscamurca/caminho-minimo-dijkstras-algorithm/blob/master/T2.png "grafo2")
+
 O teste 2, realizado em uma empresa de médio porte, a mesma tem 45 computadores conectados dentro da rede interna, diferente do teste 1, os vértices escolhidos foram PCX (vértice 21) e PCY (vértice 11).
 
 
-Figura 4: Grafo teste 3
-Fonte: Autor
+![alt text](https://github.com/davidscamurca/caminho-minimo-dijkstras-algorithm/blob/master/T3.png "grafo3")
+
 O objetivo do último teste, é ir do PCX (vértice 45) e chegar no PCY (vértice 136).
 
 # Resultados obtidos
