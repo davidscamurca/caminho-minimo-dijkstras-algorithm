@@ -11,7 +11,7 @@
 
 Esse algoritmo foi aplicado em um problema de rede de computadores, onde o mesmo e encarregado de encontrar o menor caminho entre um vertice A e B.
 
-Algoritmo originalmente desenvolvido pelo professor [Marcos Castro](https://github.com/marcoscastro) 
+Algoritmo originalmente desenvolvido pelo professor [Marcos Castro](https://github.com/marcoscastro), e foi adaptado para o problema de redes aplicado.  
 
 [Programação em C++ - Algoritmo de Dijkstra](https://gist.github.com/marcoscastro/d4e0df5b134c2cd63cf2)
 
