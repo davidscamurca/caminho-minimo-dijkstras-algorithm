@@ -1,5 +1,14 @@
 # caminho-minimo-dijkstras-algorithm
 
+/********************************************************
+ 	* David Sobrinho Camurca							                *
+ 	* Implementacao algoritmo de Dijkstra com C++		      *
+ 	* Analise de Algoritmos: Metodo Guloso				        *
+ 	* Professor: Dr. Rainer Xavier Amorim				          *
+ 	* FUCAPI - 05/12/2017 - Manaus AM					            *
+	* Engenharia de Software                              *
+*********************************************************/
+
 Esse algoritmo foi aplicado em um problema de rede de computadores, onde o mesmo e encarregado de encontrar o menor caminho entre um vertice A e B.
 
 Algoritmo originalmente desenvolvido pelo professor [Marcos Castro](https://github.com/marcoscastro) 
