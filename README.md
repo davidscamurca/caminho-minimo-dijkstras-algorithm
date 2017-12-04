@@ -31,27 +31,25 @@ O objetivo do último teste, é ir do PCX (vértice 45) e chegar no PCY (vértic
 A seguir mostraremos os resultados que obtivemos com os testes, consideramos três variáveis importante durante os testes, o tamanho da instância, o caminho percorrido e o tempo para a finalização da operação. Os tempos foram medidos em microssegundos. Para os testes utilizamos uma máquina com as seguintes configurações: Intel Core i5 4ª geração, 8GB RAM, Ubuntu 16.04.3 LTS 64 bits, GCC 5.4. Veja nas figuras 5, 6 e 7 os resultados.
 
 
-Figura 5: Resultado teste 1
-Fonte: Autor
+![alt text](https://github.com/davidscamurca/caminho-minimo-dijkstras-algorithm/blob/master/T1-RESULT.png "result1")
 
-O primeiro teste FIGURA 5, obtivemos os seguintes resultados: 
+
 Tamanho da instância: 9,
 Caminho percorrido (custo): 12
 Tempo de execução para esse teste: 133 microssegundos.
 
 
-Figura 6: Resultado teste 2
-Fonte: Autor
-O segundo teste FIGURA 6, obtivemos os seguintes resultados: 
+![alt text](https://github.com/davidscamurca/caminho-minimo-dijkstras-algorithm/blob/master/T2-RESULT.png "result2")
+
+
 Tamanho da instância: 44
 Caminho percorrido (custo): 61
 Tempo de execução para esse teste: 200 microssegundos.
 
 
-Figura 7: Resultado teste 3
-Fonte: Autor
+![alt text](https://github.com/davidscamurca/caminho-minimo-dijkstras-algorithm/blob/master/T3-RESULT.png "result3")
 
-O terceiro teste FIGURA 7, obtivemos os seguintes resultados: 
+ 
 Tamanho da instância: 205
 Caminho percorrido (custo): 52
 Tempo de execução para esse teste: 700 microssegundos.
